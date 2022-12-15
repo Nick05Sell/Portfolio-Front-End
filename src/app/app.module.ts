@@ -7,6 +7,7 @@ import { MenuNavegacionComponent } from './componentes/menu-navegacion/menu-nave
 import { InformacionComponent } from './componentes/informacion/informacion.component';
 import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
 import { ContactosComponent } from './componentes/contactos/contactos.component';
+import { PieDePaginaComponent } from './componentes/pie-de-pagina/pie-de-pagina.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ContactosComponent } from './componentes/contactos/contactos.component'
     MenuNavegacionComponent,
     InformacionComponent,
     ProyectosComponent,
-    ContactosComponent
+    ContactosComponent,
+    PieDePaginaComponent
   ],
   imports: [
     BrowserModule,
