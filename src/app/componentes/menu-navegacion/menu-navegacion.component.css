@@ -1,0 +1,15 @@
+.navbar-brand, a{
+    color: antiquewhite;
+}
+
+.nav-link:visited{
+    color: antiquewhite;
+}
+
+i{
+    color: antiquewhite;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none;
+}
