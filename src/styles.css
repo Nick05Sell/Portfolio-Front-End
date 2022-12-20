@@ -1,8 +1,14 @@
+
+*{
+ --bg: rgb(8, 8, 78);  
+ --tc: antiquewhite; 
+}
+
 .body{
-    color: antiquewhite;
+    color: var(--tc);
 }
 
 .body {
-    background: rgb(8, 8, 78);
+    background: var(--bg);
 }
 

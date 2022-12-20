@@ -1,13 +1,13 @@
 .navbar-brand, a{
-    color: antiquewhite;
+    color: var(--tc);
 }
 
 .nav-link:visited{
-    color: antiquewhite;
+    color: var(--tc);
 }
 
 i{
-    color: antiquewhite;
+    color: var(--tc);
 }
 
 .navbar-toggler:focus{
