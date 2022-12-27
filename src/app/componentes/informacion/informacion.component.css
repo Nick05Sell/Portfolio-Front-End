@@ -1,3 +1,8 @@
 .imgInfo {
     width: 60%;
+    margin: auto;
+}
+
+.containerInfo {
+    text-align: center;
 }
