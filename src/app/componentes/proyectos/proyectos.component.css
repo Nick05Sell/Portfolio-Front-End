@@ -1,0 +1,12 @@
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.card {
+    border:solid blueviolet 5px;
+    background-color: var(--bg);
+    margin: 20px;
+}
