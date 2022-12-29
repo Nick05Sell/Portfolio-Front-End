@@ -1,0 +1,13 @@
+.formContainer {
+    margin:0px auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+.form{
+    margin:20px ;
+}

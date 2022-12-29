@@ -6,7 +6,7 @@
 }
 
 .card {
-    border:solid blueviolet 5px;
+    border:solid var(--bc) 5px;
     background-color: var(--bg);
     margin: 20px;
 }
