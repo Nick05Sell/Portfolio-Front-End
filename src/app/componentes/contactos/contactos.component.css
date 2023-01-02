@@ -11,3 +11,36 @@ p {
 .form{
     margin:20px ;
 }
+
+.button {
+    background-color: var(--bc);
+    padding: 10px 25px;
+    font-size: 16px;
+    border:none;
+    text-decoration: none;
+}
+
+.button:hover{
+    background-color: rgb(116, 34, 194);
+}
+
+a{
+    color: var(--tc);
+  }
+  
+  a:hover{
+    color: var(--tc);
+  }
+  
+  a:active{
+    color: var(--tc);
+  }
+
+.socialContainer{
+    margin-top: 10px;
+}
+
+.socialContainer a {
+    text-decoration: none;
+    margin: 25px;
+}
