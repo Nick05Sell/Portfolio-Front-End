@@ -9,4 +9,14 @@
     border:solid var(--bc) 5px;
     background-color: var(--bg);
     margin: 20px;
+    text-align: center;
 }
+
+.card-text{
+    /*display: none;*/
+}
+
+.card-text:hover{
+    color: brown;
+}
+
