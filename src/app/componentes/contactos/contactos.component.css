@@ -8,22 +8,6 @@ p {
     font-size: 25px;
 }
 
-.form{
-    margin:20px ;
-}
-
-.button {
-    background-color: var(--bc);
-    padding: 10px 25px;
-    font-size: 16px;
-    border:none;
-    text-decoration: none;
-}
-
-.button:hover{
-    background-color: rgb(116, 34, 194);
-}
-
 a{
     color: var(--tc);
   }
@@ -37,7 +21,7 @@ a{
   }
 
 .socialContainer{
-    margin-top: 10px;
+    margin: 10px;
 }
 
 .socialContainer a {
