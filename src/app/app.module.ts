@@ -8,9 +8,7 @@ import { InformacionComponent } from './componentes/informacion/informacion.comp
 import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
 import { ContactosComponent } from './componentes/contactos/contactos.component';
 import { PieDePaginaComponent } from './componentes/pie-de-pagina/pie-de-pagina.component';
-import { IniciarSesionComponent } from './componentes/iniciar-sesion/iniciar-sesion.component';
 import { PortfolioComponent } from './componentes/portfolio/portfolio.component';
-import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -20,13 +18,11 @@ import { ReactiveFormsModule } from '@angular/forms';
     ProyectosComponent,
     ContactosComponent,
     PieDePaginaComponent,
-    IniciarSesionComponent,
     PortfolioComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    ReactiveFormsModule
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
