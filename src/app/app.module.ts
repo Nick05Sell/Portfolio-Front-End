@@ -10,6 +10,7 @@ import { ContactosComponent } from './componentes/contactos/contactos.component'
 import { PieDePaginaComponent } from './componentes/pie-de-pagina/pie-de-pagina.component';
 import { PortfolioComponent } from './componentes/portfolio/portfolio.component';
 import { HabilidadesComponent } from './componentes/habilidades/habilidades.component';
+import { EnDesarrolloComponent } from './componentes/en-desarrollo/en-desarrollo.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HabilidadesComponent } from './componentes/habilidades/habilidades.comp
     ContactosComponent,
     PieDePaginaComponent,
     PortfolioComponent,
-    HabilidadesComponent
+    HabilidadesComponent,
+    EnDesarrolloComponent
   ],
   imports: [
     BrowserModule,

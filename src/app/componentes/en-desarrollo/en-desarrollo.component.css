@@ -1,0 +1,13 @@
+.row {
+    margin: 30px;
+}
+
+a {
+    text-align: center;
+}
+
+a:active, a:link{
+    background-color: var(--bc);
+    border: none;
+}
+

@@ -9,16 +9,17 @@
     border:solid var(--bc) 5px;
     background-color: var(--bg);
     margin: 20px;
+    width: 250;
+    height: 300px;
     text-align: center;
-    
 }
 
-
-.card-text{
-    /*display: none;*/
+.card-link {
+    font-size: 16px;
+    transition: font-size 0.5s linear;
+    text-decoration: none;
 }
 
-.card-text:hover{
-    color: brown;
+.card-link:hover{
+    font-size: 20px;
 }
-
